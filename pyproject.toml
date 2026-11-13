@@ -1,0 +1,11 @@
+[project]
+name = "jdr-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ddgs>=9.16.1",
+    "ollama>=0.6.3",
+    "pydantic>=2.14.3",
+]
